@@ -36,6 +36,12 @@ Required packages:
 
 ## 📖 Installation Guide
 
+### 0. Direct Run
+
+```bash
+curl -sSL https://raw.githubusercontent.com/Lalatenduswain/tuku-panos/refs/heads/master/setup-panos-env.sh | bash
+````
+
 ### 1. Clone the Repository
 
 ```bash
